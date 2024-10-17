@@ -1,0 +1,27 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #ffdbedff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80%;
+
+}
+
+.container {
+  background-color: #fe95c8;
+  padding: 10px;
+  border: 2px dashed #fb6fb3;
+  border-radius: 10px;
+}
+
+.item {
+  list-style: none;
+  padding-bottom: 8px;
+  font-size: 17px;
+  padding-right: 30px;
+}
