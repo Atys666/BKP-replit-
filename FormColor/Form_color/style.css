@@ -1,0 +1,29 @@
+html {
+  height: 100%;
+  width: 100%;
+  font-family: Verdana;
+}
+
+.container {
+  background-color: #a1a1a1;
+  width: 100%;
+  display: flex;
+  flex-direction: Space-arond;
+  padding: 25px;
+
+}
+
+.cor {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+}
+
+.caixa {
+  width: 100px;
+  height: 100px;
+  border: 1px #ff0000ff;
+
+
+}
